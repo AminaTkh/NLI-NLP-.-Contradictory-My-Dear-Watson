@@ -1,1 +1,1 @@
-# NLI-NLP-.-Contradictory-My-Dear-Watson
+# NLI-NLP.Contradictory-My-Dear-Watson
